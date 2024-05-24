@@ -45,21 +45,21 @@ window.addEventListener("scroll", function () {
 });
 // -------------------------------loading animation=========================
 
-var tl = gsap.timeline()
+// var tl = gsap.timeline()
 
-tl.to(".load",{
-    y:"100vh",
-    scale:0.6,
-    duration:0
-})
-tl.to(".load",{
-    y:"30vh",
-    duration:1,
-    delay:1
-})
-tl.to(".load",{
-    y:"0vh",
-    rotate:360,
-    scale:1,
-    duration:0.9
-})
+// tl.to(".load",{
+//     y:"100vh",
+//     scale:0.6,
+//     duration:0
+// })
+// tl.to(".load",{
+//     y:"30vh",
+//     duration:1,
+//     delay:1
+// })
+// tl.to(".load",{
+//     y:"0vh",
+//     rotate:360,
+//     scale:1,
+//     duration:0.9
+// })
