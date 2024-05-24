@@ -1,7 +1,7 @@
-const scroll = new LocomotiveScroll({
-  el: document.querySelector('#top'),
-  smooth: true
-});
+// const scroll = new LocomotiveScroll({
+//   el: document.querySelector('#top'),
+//   smooth: true
+// });
 
 'use strict';
 
